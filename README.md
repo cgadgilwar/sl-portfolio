@@ -1,2 +1,3 @@
-# sl-portfolio
-this is my professional serverless react portfolio
+# Chetan Gadgilwar's React Portfolio
+
+This is my professional portfolio. It uses AWS & ReactJS
